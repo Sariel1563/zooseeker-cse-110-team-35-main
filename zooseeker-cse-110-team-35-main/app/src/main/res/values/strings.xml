@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZooSeeker-Team35</string>
+    <string name="strSearchExhibits">Search Exhibits …</string>
+    <string name="strSearchBtn">Search</string>
+</resources>
